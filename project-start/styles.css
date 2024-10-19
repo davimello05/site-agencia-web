@@ -1,0 +1,23 @@
+#h2id {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+#h2two {
+    margin-left: 25px;
+}
+#h6id {
+    margin-left: 25px;
+}
+#buttonid {
+    margin-left: 60px;
+    margin-top: 8px;
+    border-radius: 2px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.alinhar {
+    text-align: center;
+}
+.drop {
+    align-items: center;
+}
